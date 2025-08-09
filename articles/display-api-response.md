@@ -3,7 +3,7 @@ title: "夏のプロジェクト第2週：PythonからHTMLへ変数を渡して�
 emoji: " 🌐 "
 type: "tech"
 topics: ["python", "flask", "jinja2", "駆け出しエンジニア"]
-published: false
+published: true
 ---
 ## 今回のゴール
 前回は、HTMLフォームから送信されたデータをPython(Flask)側で受け取り、ターミナルに表示するところまでを実装しました。
